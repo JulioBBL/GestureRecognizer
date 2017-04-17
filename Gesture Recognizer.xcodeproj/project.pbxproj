@@ -12,6 +12,13 @@
 		598E76871EA5419200D14B6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 598E76851EA5419200D14B6F /* Main.storyboard */; };
 		598E76891EA5419200D14B6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 598E76881EA5419200D14B6F /* Assets.xcassets */; };
 		598E768C1EA5419200D14B6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 598E768A1EA5419200D14B6F /* LaunchScreen.storyboard */; };
+		598E76991EA5423D00D14B6F /* banana.png in Resources */ = {isa = PBXBuildFile; fileRef = 598E76931EA5423D00D14B6F /* banana.png */; };
+		598E769A1EA5423D00D14B6F /* banana@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 598E76941EA5423D00D14B6F /* banana@2x.png */; };
+		598E769B1EA5423D00D14B6F /* chomp.caf in Resources */ = {isa = PBXBuildFile; fileRef = 598E76951EA5423D00D14B6F /* chomp.caf */; };
+		598E769C1EA5423D00D14B6F /* hehehe1.caf in Resources */ = {isa = PBXBuildFile; fileRef = 598E76961EA5423D00D14B6F /* hehehe1.caf */; };
+		598E769D1EA5423D00D14B6F /* monkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 598E76971EA5423D00D14B6F /* monkey.png */; };
+		598E769E1EA5423D00D14B6F /* monkey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 598E76981EA5423D00D14B6F /* monkey@2x.png */; };
+		598E76A01EA557A500D14B6F /* monkeySquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 598E769F1EA557A500D14B6F /* monkeySquare.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		598E76881EA5419200D14B6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		598E768B1EA5419200D14B6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		598E768D1EA5419200D14B6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		598E76931EA5423D00D14B6F /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
+		598E76941EA5423D00D14B6F /* banana@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "banana@2x.png"; sourceTree = "<group>"; };
+		598E76951EA5423D00D14B6F /* chomp.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = chomp.caf; sourceTree = "<group>"; };
+		598E76961EA5423D00D14B6F /* hehehe1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = hehehe1.caf; sourceTree = "<group>"; };
+		598E76971EA5423D00D14B6F /* monkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monkey.png; sourceTree = "<group>"; };
+		598E76981EA5423D00D14B6F /* monkey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monkey@2x.png"; sourceTree = "<group>"; };
+		598E769F1EA557A500D14B6F /* monkeySquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monkeySquare.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +74,13 @@
 				598E76881EA5419200D14B6F /* Assets.xcassets */,
 				598E768A1EA5419200D14B6F /* LaunchScreen.storyboard */,
 				598E768D1EA5419200D14B6F /* Info.plist */,
+				598E76931EA5423D00D14B6F /* banana.png */,
+				598E76941EA5423D00D14B6F /* banana@2x.png */,
+				598E76951EA5423D00D14B6F /* chomp.caf */,
+				598E76961EA5423D00D14B6F /* hehehe1.caf */,
+				598E76971EA5423D00D14B6F /* monkey.png */,
+				598E76981EA5423D00D14B6F /* monkey@2x.png */,
+				598E769F1EA557A500D14B6F /* monkeySquare.png */,
 			);
 			path = "Gesture Recognizer";
 			sourceTree = "<group>";
@@ -124,9 +145,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				598E769D1EA5423D00D14B6F /* monkey.png in Resources */,
+				598E769B1EA5423D00D14B6F /* chomp.caf in Resources */,
 				598E768C1EA5419200D14B6F /* LaunchScreen.storyboard in Resources */,
 				598E76891EA5419200D14B6F /* Assets.xcassets in Resources */,
+				598E769E1EA5423D00D14B6F /* monkey@2x.png in Resources */,
+				598E769A1EA5423D00D14B6F /* banana@2x.png in Resources */,
+				598E76991EA5423D00D14B6F /* banana.png in Resources */,
 				598E76871EA5419200D14B6F /* Main.storyboard in Resources */,
+				598E769C1EA5423D00D14B6F /* hehehe1.caf in Resources */,
+				598E76A01EA557A500D14B6F /* monkeySquare.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
